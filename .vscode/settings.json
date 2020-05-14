@@ -1,0 +1,4 @@
+{
+    "flow.runOnAllFiles": true,
+    "flow.lazyMode": "off"
+}
